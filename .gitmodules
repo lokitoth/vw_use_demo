@@ -1,0 +1,3 @@
+[submodule "lib/vw"]
+	path = lib/vw
+	url = https://github.com/VowpalWabbit/vowpal_wabbit

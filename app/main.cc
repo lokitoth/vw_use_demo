@@ -21,7 +21,7 @@ int main(int argc, char** argv)
         VW::finish_example(*vw, *ex);
 
         // note that this is a manual driver. If you want to use vw in the same mode as the executable
-        // use this code instead (and add appropriate -i, -f, -d, etc. lines)
+        // use this code instead (and add appropriate -i, -f, -d, etc. options to the args passed to VW::initialize)
         /*
         
         VW::start_parser(*vw);
